@@ -7,9 +7,6 @@ package factorials;
 
 /*
 Braden Niksich
-TEC 283
-9/17/18
-Lab 3 Task 2
 This program displays factorials of the integer the user inputs.
  */
 
